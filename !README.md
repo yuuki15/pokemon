@@ -1,6 +1,6 @@
 # List of yuuki's Pokémon in Pokémon Go
 
-This is a list of Pokémon owned by yuuki in Pokémon Go. These CSV files are imported into the following Pokebattler profiles:
+This is a list of Pokémon owned by yuuki in Pokémon Go. These CSV files were imported into the following Pokebattler profiles:
 
 * https://www.pokebattler.com/profiles/1124360
 * https://www.pokebattler.com/profiles/1124361
