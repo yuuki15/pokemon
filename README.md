@@ -2,7 +2,7 @@
 
 * [Mint](https://min.togetter.com/QlBNRl7)
 
-This is a list of Pokemon owned by Yuuki in Pokemon Go.  These CSV files have been imported into Pokebattler:
+This is a list of Pokemon owned by Yuuki in Pokemon Go.  These CSV files are imported into Pokebattler:
 
 * https://www.pokebattler.com/profiles/1124360
 * https://www.pokebattler.com/profiles/1124361
