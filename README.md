@@ -9,4 +9,3 @@ Exported from Google Sheets:
 Imported into Pokebattler:
 
 * https://www.pokebattler.com/profiles/1124360
-* https://www.pokebattler.com/profiles/1124361
