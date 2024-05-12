@@ -1,4 +1,4 @@
-# List of yuuki's Pokemon in Pokemon Go
+# yuuki's Pokemon in Pokemon Go
 
 [Mint](https://min.togetter.com/QlBNRl7)
 
