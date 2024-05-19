@@ -1,6 +1,6 @@
 # yuuki's Pokemon in Pokemon Go
 
-[Mint](https://min.togetter.com/QlBNRl7)
+[Mint](https://min.togetter.com/x8kT6eW)
 
 Exported from Google Sheets:
 
