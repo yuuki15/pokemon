@@ -1,4 +1,4 @@
-# yuuki's Pokemon in Pokemon Go
+# List of yuuki's Pokemon in Pokemon Go
 
 Exported from:
 
